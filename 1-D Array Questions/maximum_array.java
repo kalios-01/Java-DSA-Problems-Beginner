@@ -1,3 +1,4 @@
+// Print Maximum and Minimum element of array.
 public class maximum_array {
     public static void main(String[] args) {
         int max =0;
