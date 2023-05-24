@@ -8,10 +8,10 @@ public class PowerofTwoChecker {
         Scanner sn = new Scanner(System.in);
         int number = sn.nextInt();
         if(isPowerTwo(number)){
-            System.out.println(number+"is power of 2");
+            System.out.println(number+" is power of 2");
         }
         else{
-            System.out.println(number+"is Not power of 2");
+            System.out.println(number+" is Not power of 2");
         }
         
         
